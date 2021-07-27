@@ -1,0 +1,26 @@
+
+@import "_header";
+
+h1{
+    color: forestgreen;
+} 
+
+body {
+    font: size 15px;
+     div{
+        font-size: 20px;
+     }
+
+
+}
+.block {
+
+    &_item {
+    }
+
+    &__li {
+        color: rgb(171, 175, 112);
+    
+    .red{
+        color: rgb(221, 17, 17);
+    }
